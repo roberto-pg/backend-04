@@ -7,7 +7,7 @@
 > ## Fluxo primário
 
 1. Obter os dados do último evento do grupo (data de término e duração do mercado de notas)
-2. Retornar status "ativo" se o evento ainda não foi finalizado
+2. Retornar status "ativo" se o evento ainda não foi encerrado
 
 > ## Fluxo alternativo: Evento está no limite de encerramento
 2. Retornar status "ativo"
